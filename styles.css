@@ -1,0 +1,21 @@
+.heading1 {
+    background-color: black;
+    color: pink;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.recipelist {
+    background-color: pink;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.links {
+    color: black;
+}
+
+.ingredientsList {
+    background-color: yellow;
+}
