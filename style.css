@@ -1,0 +1,19 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif, 'Arial Narrow', Arial, sans-serif;
+    color:red
+}
+
+.pagetitle {
+    font-size: 50px;
+    text-align: center;
+}
+
+.specificrecipetitles {
+    font-size: 50px;
+    color: red;
+}
+
+.recipelist {
+    font-size: 22px;
+}
